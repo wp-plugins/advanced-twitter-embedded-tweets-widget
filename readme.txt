@@ -5,7 +5,7 @@ Author Name : Alan Ferdinand
 Author URL : http://www.sparxseo.com
 Tags: advanced twitter embedded tweets widget, wordpress widget, advanced twitter, twitter embedded post, twitter widget, twitter post, twitter, wordpress widget for twitter embedded post
 Requires at least: 3.0.1
-Tested up to: 4.1.2
+Tested up to: 4.2.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
