@@ -137,7 +137,7 @@ class advancedTwitterEmbeddedTweetsWidget extends WP_Widget{
         extract($dataTweet);
         $data .= $html;
 		if($author == "true"){
-			$data .= "<div style='font-size: 9px; color: #808080; font-weight: normal; font-family: tahoma,verdana,arial,sans-serif; line-height: 1.28; text-align: right; direction: ltr;'><a href='https://www.pethairgone.com/' target='_blank' style='color: #808080;' title='Worlds Best Pet Hair Remover'>Best Pet Hair Remover</a></div>";}
+			$data .= "<div style='font-size: 9px; color: #808080; font-weight: normal; font-family: tahoma,verdana,arial,sans-serif; line-height: 1.28; text-align: right; direction: ltr;'><a href='https://www.pethairgone.com/' target='_blank' style='color: #808080;' title='Worlds Best Cat Hair Remover'>Best Cat Hair Remover</a></div>";}
 			echo $before_widget;
             echo $before_title . $title . $after_title;
             echo $data;
